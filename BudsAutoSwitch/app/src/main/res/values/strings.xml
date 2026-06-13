@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BudsAutoSwitch</string>
+    <string name="title_target_device">전환 대상 기기 (Buds4 Pro)</string>
+    <string name="btn_select_device">기기 선택</string>
+    <string name="btn_grant_notification_access">알림 접근 권한 설정</string>
+    <string name="btn_grant_bluetooth_permission">블루투스 권한 요청</string>
+    <string name="btn_start_service">감시 시작</string>
+    <string name="btn_stop_service">감시 중지</string>
+    <string name="no_device_selected">선택된 기기 없음</string>
+    <string name="notification_access_required">알림 접근 권한이 필요합니다 (재생 감지를 위해)</string>
+    <string name="notification_access_granted">알림 접근 권한 허용됨</string>
+    <string name="bluetooth_permission_required">블루투스 권한이 필요합니다</string>
+    <string name="bluetooth_permission_granted">블루투스 권한 허용됨</string>
+    <string name="service_running">감시 서비스 실행 중</string>
+    <string name="service_stopped">감시 서비스 중지됨</string>
+    <string name="foreground_notification_title">버즈4프로 자동 전환 감시 중</string>
+    <string name="foreground_notification_text">미디어 재생을 감지하면 자동으로 연결을 전환합니다</string>
+    <string name="select_device_title">버즈4프로 선택</string>
+    <string name="no_paired_devices">페어링된 블루투스 기기가 없습니다</string>
+    <string name="log_title">최근 동작 로그</string>
+</resources>
